@@ -61,6 +61,18 @@
 
 ###
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md Murad&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mdalifkhandev&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+<!--   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalifkhandev&theme=radical" alt="GitHub Streak" /> -->
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
