@@ -64,11 +64,11 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhellsing102&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnuruzzamannirob&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhellsing102&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdnuruzzamannirob&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <!--
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhellsing102&theme=radical" alt="GitHub Streak" /> --!>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnuruzzamannirob&theme=radical" alt="GitHub Streak" /> --!>
   
 </div>
 
