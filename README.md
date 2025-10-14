@@ -46,18 +46,17 @@
 </div>
 
 ###
-
+---
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad403&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=murad403&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=murad403&theme=radical" alt="GitHub Streak" /> -->
-  
 </div>
 
 ###
-
+---
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -67,8 +66,19 @@
 </div>
 
 ###
+---
+### 🌐 Let's Connect
 
-###
+<p align="center">
+  <!-- Social Media Badges -->
+  <a href="mailto:mdmurad.dev2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mdmurad403/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/muradvanhellsing"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://portfolio-mybook-next-js.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<!-- Footer Divider -->
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-template/master/src/assets/images/line.gif" width="100%">
 <div>
   
 </div>
