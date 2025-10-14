@@ -4,20 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://portfolio-mybook-next-js.vercel.app/?message=website&logo=website&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<!-- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=murad403&"  />
-</div> -->
-
-###
-
 <h1 align="center">Hey there 👋 I am Murad</h1>
 <p align="center">Murad is passionate MERN stack developer from Bangladesh!!!</p>
 
@@ -64,11 +50,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanhellsing102&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhellsing102&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <!--
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanhellsing102&theme=radical" alt="GitHub Streak" /> --!>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad403&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murad403&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=murad403&theme=radical" alt="GitHub Streak" /> -->
   
 </div>
 
@@ -79,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vanhellsing102&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=murad403&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
