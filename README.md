@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## <h3 align="center">📊 GitHub Statistics:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad403&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
@@ -41,7 +41,7 @@
 
 ###
 ---
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats :</h3>
 
 ###
 
@@ -51,11 +51,18 @@
 
 ###
 ---
-### 🌐 Let's Connect
+## <h3 align="center">📈 GitHub Activity Graph<h3/>
+<div align="center">
+ 
+<a href="#">
+<img src=https://github-readme-activity-graph.vercel.app/graph?username=murad403&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22/>
+</a>
+ 
+</div>
+
+### <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
-  <!-- Social Media Badges -->
-  <a href="mailto:mdmurad.dev2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mdmurad403/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.facebook.com/muradvanhellsing"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://portfolio-mybook-next-js.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
