@@ -43,13 +43,13 @@
   <img src="https://streak-stats.demolab.com?user=murad403&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-## <h3 align="center">📈 GitHub Activity Graph<h3/>
-<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img width="50%" height="180em" src=https://github-readme-activity-graph.vercel.app/graph?username=murad403&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22/>
-  <img width="50%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiuly-28&theme=github_dark" alt="Contribution Graph" />
+## <h3 align="center">📈 GitHub Activity & Contribution Graph<h3/>
+<div align="center" style="display: flex;">
+  <img height="250em" src=https://github-readme-activity-graph.vercel.app/graph?username=murad403&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22&/>
+  <img height="210em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murad403&theme=github_dark" alt="Contribution Graph" />
 </div>
 
-### <h3 align="center">🌐 Let's Connect</h3>
+## <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdmurad403/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
