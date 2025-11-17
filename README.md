@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 I am Murad</h1>
+# Hi  there, I'm **Md Murad!**   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndhbW1yeTI0dWtibjZnZmQ3enRhY2hodmVuNWRrcTJlZWlscTdicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hVm2JYyoGy7MGqX4H8/giphy.gif" width="150" alt="Hi">
 <p align="center">Murad is passionate MERN stack developer from Bangladesh!!!</p>
 
 ###
@@ -30,27 +30,19 @@
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
 </div>
 
----
-
 ## <h3 align="center">📊 GitHub Statistics:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad403&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=murad403&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=murad403&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=murad403&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
 
 ###
----
 <h3 align="center">🔥 My Stats :</h3>
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=murad403&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
----
 ## <h3 align="center">📈 GitHub Activity Graph<h3/>
 <div align="center">
  
