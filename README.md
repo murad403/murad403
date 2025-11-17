@@ -44,12 +44,9 @@
 </div>
 
 ## <h3 align="center">📈 GitHub Activity Graph<h3/>
-<div align="center">
- 
-<a href="#">
-<img src=https://github-readme-activity-graph.vercel.app/graph?username=murad403&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22/>
-</a>
- 
+<div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img width="50%" height="180em" src=https://github-readme-activity-graph.vercel.app/graph?username=murad403&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true%22/>
+  <img width="50%" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiuly-28&theme=github_dark" alt="Contribution Graph" />
 </div>
 
 ### <h3 align="center">🌐 Let's Connect</h3>
