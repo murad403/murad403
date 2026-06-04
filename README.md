@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Murad from Bangladesh<br><br>- 🔭 I’m a MERN Stack Developer passionate about building scalable web applications. <br>- 🌱 I’m currently enhancing my skills in Framer Motion & Next.js.<br>- 💡 I love solving problems and exploring new technologies. <br>- ⚡ Fun fact: I enjoy working on open-source projects & building creative UI/UX. <br>- 📫 How to reach me: <b>vvanhellsing30@gmail.com</b></p>
+<p align="left">I'm Murad from Bangladesh<br><br>- 🔭 I’m a MERN Stack Developer passionate about building scalable web applications. <br>- 🌱 I’m currently enhancing my skills in Framer Motion & Next.js.<br>- 💡 I love solving problems and exploring new technologies. <br>- ⚡ Fun fact: I enjoy working on open-source projects & building creative UI/UX. <br>- 📫 How to reach me: <b>mdmurad.dev2004@gmail.com</b></p>
 
 ###
 
