@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img height="150" src="https://github.com/user-attachments/assets/71beec7c-d40d-46d7-b6c4-81eebef6d7bd"  /> -->
-  <img src='./profile2.png' style="width: 250px; height: 320px; object-fit: cover; border-radius: 100%; margin-bottom: 30px;" />
+  <img src='./main.png' style="width: 250px; height: 320px; object-fit: cover; border-radius: 100%; margin-bottom: 30px;" />
 </div>
 
 ###
